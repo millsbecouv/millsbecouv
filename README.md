@@ -1,19 +1,29 @@
-# Hi, I'm John Doe 👋
+# Hi, I'm Mills Becouvarakis 👋
 
-I'm a Software Developer passionate about machine learning and web development. I love creating projects that solve real-world problems.
+I'm a motivated business analytics graduate student at the College of William & Mary, with a Bachelor of Business Administration from Emory and Henry University. I’m passionate about extracting insights from data and using data-driven decision-making to solve real-world problems. I'm currently seeking a full-time position in business analytics.
 
 ## 🔧 Skills
-- **Languages:** Python, JavaScript, C++
-- **Frameworks:** TensorFlow, React, Node.js
-- **Tools:** Git, Docker, VS Code
+- **Hard Skills:** SQL, Python, R, Tableau, Alteryx, Matplotlib, Seaborn, Pandas, Advanced Excel, Microsoft Office, GitHub
+- **Soft Skills:** Analytical thinking, problem-solving, communication, collaboration, leadership, adaptability, attention to detail, time management, critical thinking, resilience
 
-## 🚀 Projects
-- **[Project One](link):** A brief description of the project.
-- **[Project Two](link):** A short summary of what the project does.
+## 🚀 Projects & Experience
+- **CEO and Owner | RateMyCoachUSA** (2025–Present)  
+  Leading a startup focused on sports analytics and performance evaluation.
+- **Baseball Analytics | Emory & Henry University** (2023–2024)  
+  Analyzed historical data, cleaned datasets, and performed statistical analyses using Python.
+- **Senior Beach Lifeguard | City of Hampton** (2019–2025)  
+  Developed strong leadership and teamwork skills while ensuring public safety.
+
+## 🎓 Education
+- **Master of Science in Business Analytics** – College of William & Mary (Expected May 2025)
+- **Bachelor of Business Administration** – Emory and Henry University
 
 ## 🎯 Goals & Interests
-I'm always learning new technologies and working on exciting projects. When I'm not coding, I enjoy hiking and photography.
+I am eager to leverage my skills in analytics, data visualization, and machine learning to help organizations make informed decisions. I enjoy exploring topics in business management, strategy, consulting, and marketing. Outside of work, I have a passion for baseball (as a former collegiate player), fishing, weightlifting, cooking, and promoting financial literacy.
 
-## 📫 How to reach me
-- Email: johndoe@example.com
-- LinkedIn: [John Doe](https://www.linkedin.com/in/johndoe)
+## 📫 How to Reach Me
+- **Email:** millsbecouv@gmail.com
+- **LinkedIn:** [[Your LinkedIn URL](https://www.linkedin.com/in/mills-bec/)](#) 
+- **GitHub:** [Your GitHub](https://github.com/millsbecouv) 
+
+Thanks for stopping by my profile!
