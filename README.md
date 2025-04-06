@@ -23,7 +23,7 @@ I am eager to leverage my skills in analytics, data visualization, and machine l
 
 ## 📫 How to Reach Me
 - **Email:** millsbecouv@gmail.com
-- **LinkedIn:** [[Your LinkedIn URL](https://www.linkedin.com/in/mills-bec/)](#) 
-- **GitHub:** [Your GitHub](https://github.com/millsbecouv) 
+- **LinkedIn:** [[(https://www.linkedin.com/in/mills-bec/](https://www.linkedin.com/in/mills-bec/)]
+- **GitHub:** [(https://github.com/millsbecouv)](https://github.com/millsbecouv) 
 
 Thanks for stopping by my profile!
