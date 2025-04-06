@@ -1,6 +1,6 @@
 # Hi, I'm Mills Becouvarakis 👋
 
-I'm a motivated business analytics graduate student at the College of William & Mary, with a Bachelor of Business Administration from Emory and Henry University. I’m passionate about extracting insights from data and using data-driven decision-making to solve real-world problems. I'm currently seeking a full-time position in business analytics.
+I'm a business analytics graduate student at the College of William & Mary, holding a Bachelor of Business Administration from Emory and Henry University. I'm passionate about transforming data into actionable insights and using analytics to make the world a better place. I love applying data-driven solutions across diverse fields—whether it's enhancing sports performance, promoting nature conservation, or improving financial literacy. I'm actively seeking a full-time position in business analytics where I'd like to leverage my skills, embrace new challenges, and create positive change in any industry I work in.
 
 ## 🔧 Skills
 - **Hard Skills:** SQL, Python, R, Tableau, Alteryx, Matplotlib, Seaborn, Pandas, Advanced Excel, Microsoft Office, GitHub
@@ -9,17 +9,18 @@ I'm a motivated business analytics graduate student at the College of William & 
 ## 🚀 Projects & Experience
 - **CEO and Owner | RateMyCoachUSA** (2025–Present)  
   Leading a startup focused on sports analytics and performance evaluation.
+  https://ratemycoachusa.com/
 - **Baseball Analytics | Emory & Henry University** (2023–2024)  
-  Analyzed historical data, cleaned datasets, and performed statistical analyses using Python.
-- **Senior Beach Lifeguard | City of Hampton** (2019–2025)  
-  Developed strong leadership and teamwork skills while ensuring public safety.
+  Analyzed historical data, cleaned datasets, and performed statistical analyses using Python to give my team the upperhand.
 
 ## 🎓 Education
 - **Master of Science in Business Analytics** – College of William & Mary (Expected May 2025)
 - **Bachelor of Business Administration** – Emory and Henry University
 
 ## 🎯 Goals & Interests
-I am eager to leverage my skills in analytics, data visualization, and machine learning to help organizations make informed decisions. I enjoy exploring topics in business management, strategy, consulting, and marketing. Outside of work, I have a passion for baseball (as a former collegiate player), fishing, weightlifting, cooking, and promoting financial literacy.
+I'm all about finding a career where I can feel like I'm making a positive difference in the world. Right now, my main goal is to discover that one role that truly fulfills me. I always try to be a good person and help others whenever I can, and I dream of a career that lets me support my family and make a real impact in my community.
+
+When I'm not working, I love staying active and having fun. I enjoy working out, cooking, watching TV and movies, and following sports. Baseball is a huge part of my life—I played in college and now coach high school. I'm also very addicted to fishing and try to get out on the water as often as I can.
 
 ## 📫 How to Reach Me
 - **Email:** millsbecouv@gmail.com
