@@ -20,7 +20,7 @@ I'm a business analytics graduate student at the College of William & Mary, hold
 ## 🎯 Goals & Interests
 I'm all about finding a career where I can feel like I'm making a positive difference in the world. Right now, my main goal is to discover that one role that truly fulfills me. I always try to be a good person and help others whenever I can, and I dream of a career that lets me support my family and make a real impact in my community.
 
-When I'm not working, I love staying active and having fun. I enjoy working out, cooking, watching TV and movies, and following sports. Baseball is a huge part of my life—I played in college and now coach high school. I'm also very addicted to fishing and try to get out on the water as often as I can.
+When I'm not working, I love staying active and having fun. I enjoy working out, cooking, watching TV and movies, and following sports. Baseball is a huge part of my life as I played in college and now coach high school. I'm also very addicted to fishing and try to get out on the water as often as I can.
 
 ## 📫 How to Reach Me
 - **Email:** millsbecouv@gmail.com
